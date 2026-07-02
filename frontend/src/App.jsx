@@ -1,6 +1,6 @@
 import { useState, useRef } from "react";
 
-const API = "http://127.0.0.1:8000";
+const API = "http://13.235.90.49:8000";
 
 const styles = `
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
